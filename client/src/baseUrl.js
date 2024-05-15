@@ -1,3 +1,3 @@
-const baseUrl = "https://subscription22.azurewebsites.net/";
+const baseUrl = "https://cloudcomputing44.azurewebsites.net/";
 
 export default baseUrl;
