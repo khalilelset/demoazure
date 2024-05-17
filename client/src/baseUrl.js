@@ -1,3 +1,3 @@
-const baseUrl = "https://demoazure2024.azurewebsites.net/";
+const baseUrl = "https://azuredemo2025.azurewebsites.net/";
 
 export default baseUrl;
